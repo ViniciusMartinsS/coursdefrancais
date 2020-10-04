@@ -1,10 +1,6 @@
 <h2>Classe 30/09</h2>
 
-<br>
-
 <h3> Salutations </h3>
-
-<br>
 
 <h4>De base</h4>
 
@@ -13,11 +9,7 @@
 * Salut - ( Informal )
 * Coucou - ( Muito Informal )
 
-<br>
-
 <h3>Adieu</h3>
-
-<br>
 
 <h4>De base</h4>
 
@@ -32,11 +24,7 @@
 * À la semaine prochaine - ( Até semana que vem )
 * Bonne semaine - ( Boa semana )
 
-<br>
-
 <h4>Bien</h4>
-
-<br>
 
 * Ça va? - ( Formal & Informal )
 * Ça va bien? - ( Formal & Informal )
@@ -44,11 +32,7 @@
 * Comment allez-vous? - ( Formal ) ( T do **"Comment"** é pronunciado por conta da vogal )
 * Comment vas-tu? - ( Informal ) ( T do **"Comment"** não é pronunciado por conta da consoante )
 
-<br>
-
 <h5>Réponse</h5>
-
-<br>
 
 **-- Ça va?**
 * Ça va!
@@ -60,21 +44,13 @@
 * Mal
 * Très mal - ( Muito mal )
 
-<br>
-
 <h4>Trativas (PT)</h4>
-
-<br>
 
 * ( MR ) Monsieur - ( Monsieur MARTINS )
 * ( MME ) Madame - ( Madame MARTINS )
 * Mademoiselle - ( Mulher que nao é casada - NÃO SE USA MAIS )
 
-<br>
-
 <h4>Statut marital</h4>
-
-<br>
 
 * Marié - ( Casado )
 * Mariée - ( Casada )
@@ -88,8 +64,6 @@
 * Petite-copine - ( Namorada )
 * Ma femme - ( Minha mulher )
 * Mon mari - ( Meu marido )
-
-<br>
 
 <h4>Extras</h4>
 
@@ -114,18 +88,12 @@
 * Couple - ( Casal )
 * **OBS:** Último nome é sempre maiúsculo MARTINS SIMONE Vinicius
 
-<br>
-
 <h4>Traducteur</h4>
 
 * [Linguee](https://www.linguee.com.br/portugues-frances)
 * [Reverso](https://www.reverso.net/text_translation.aspx?lang=PT)
 
-<br>
-
 <h4>Présentation</h4>
-
-<br>
 
 **Bonsoir. <br>
 Je m'appelle Vinicius. <br>
