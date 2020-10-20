@@ -2,10 +2,6 @@
 
 <br>
 
-<h3> Salutations </h3>
-
-<br>
-
 <h4>Les Verbes Auxiliaires</h4>
 
 - Avoir (Ter)
@@ -131,3 +127,17 @@ Obs:
 
 - Une Tâche = Uma Tarefa / Uma mancha
 - Rousseur = Ruiva
+
+---
+
+<h4>Présentation</h4>
+
+Il est un acteur et bodybuilder bodibude
+Il est américain
+et il est âgé AG
+
+Sur les caractéristiques physiques
+il est musclé
+il a les cheveux raides et blond ( CHEVU )
+il a les yeux bleus ( lesIE )
+il est sportif
